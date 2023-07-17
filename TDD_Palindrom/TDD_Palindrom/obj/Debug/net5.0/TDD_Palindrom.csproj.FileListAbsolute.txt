@@ -1,0 +1,16 @@
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.csproj.AssemblyReference.cache
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.AssemblyInfoInputs.cache
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.AssemblyInfo.cs
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.csproj.CoreCompileInputs.cache
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.exe
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.deps.json
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.runtimeconfig.json
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.runtimeconfig.dev.json
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.dll
+D:\codes\TDD_Palindrom\TDD_Palindrom\bin\Debug\net5.0\TDD_Palindrom.pdb
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.dll
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\refint\TDD_Palindrom.dll
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.pdb
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\TDD_Palindrom.genruntimeconfig.cache
+D:\codes\TDD_Palindrom\TDD_Palindrom\obj\Debug\net5.0\ref\TDD_Palindrom.dll
